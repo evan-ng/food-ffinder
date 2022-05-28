@@ -1,6 +1,8 @@
 # Food FFinder
 A map application written in C++ using an API to query lower level OpenStreetMap data and the libcurl library to access restaurant data in Google's Places API.
 
+> Note that the source code is not public since this is a school project.
+
 ## Features
  * Read data from Open Street Map database
  * Use the libcurl library to access restaurant data from Google's Places API
