@@ -21,3 +21,9 @@ A map application written in C++ using an API to query lower level OpenStreetMap
  * Dijkstra's algorithm with A* heuristics
  * Travelling salesman problem (with added constraints) using a nearest neighbour algorithm and iterative optimization algorithms <br><br>
  * Runtime optimization by precomputing map information and using multi-threading
+
+## Images
+<div align="center">
+<img src="./assets/the-map.png" width=48% height=48%> <img src="./assets/dark-mode.png" width=48% height=48%>
+<img src="./assets/search-this-area.png" width=48% height=48%> <img src="./assets/auto-suggest.png" width=48% height=48%>
+</div>
